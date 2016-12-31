@@ -106,18 +106,5 @@ if __name__ == "__main__": #prevent code from being executed when imported
 
 
     write_letter(league, dates, team_names)
-
-
-
-
-
-
-
-
-
-
-
-
-    
     
     
